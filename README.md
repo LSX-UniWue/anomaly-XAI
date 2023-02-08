@@ -4,6 +4,9 @@
 This repository contains the showcases conducted in the paper "Feature relevance XAI in anomaly detection:
 reviewing approaches and challenges"
 
+[Tritscher, Julian, Anna Krause, and Andreas Hotho. "Feature relevance XAI in anomaly detection: Reviewing approaches and challenges." Frontiers in Artificial Intelligence 6 (2023).]
+
+https://www.frontiersin.org/articles/10.3389/frai.2023.1099521/full
 
 ## Showcases
 
